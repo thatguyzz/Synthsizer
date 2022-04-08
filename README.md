@@ -1,6 +1,7 @@
 # Synthsizer
 Synthsizer written in Matlab in 2020
 
+Interface is terrible, but it works and is even listenable :D
 
 ![image](https://user-images.githubusercontent.com/84450232/162446717-5a3c6372-8c19-45ed-8ee1-924fd40181f2.png)
 
