@@ -1,5 +1,5 @@
 # Synthsizer
-Synthsizer written in Matlab in 2020
+Synthsizer written in Matlab in 2021
 
 Interface is terrible, but it works and is even listenable :D
 
